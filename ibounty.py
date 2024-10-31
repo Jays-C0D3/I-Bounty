@@ -18,4 +18,5 @@ def main():
           tmpl0.append(str(vrt.get('href')))
   except:
     print("Error! Closing now :(")
-      
+
+main()
